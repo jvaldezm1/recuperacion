@@ -7,7 +7,7 @@ public class JavaApplication19 {
    
     public static void main(String[] args) {
      
-        
+         new Interfaz().setVisible(true);
         
     }
     
